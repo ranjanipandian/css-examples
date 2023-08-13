@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+   <head>
+        <title>CSS EXAMPLES</title>
+    </head>
+<body>
+    <ul>
+        <li>Tea</li>
+        <li>Coffee</li>
+        <li>Soft drink</li>
+        <ul>
+           <li>coca-cola</li>
+           <li>mirinda</li>
+           <li>spsrit</li>
+        </ul>
+    </ul>
+<hr/>Similarly:
+<ul>
+    <li style="list-style-type: square;">1</li>
+    <li style="list-style-type: square;">2</li>
+    <li style="list-style-type: square;">3</li>
+</ul>   
+</body>
+
+</html>

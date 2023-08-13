@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+   <head>
+        <title>CSS EXAMPLES</title>
+        <style>
+            div {
+                width:300px;
+                height:100px;
+                background-color:brown;
+                border:1px solid white;
+            }
+            div#mydiv {
+                transform:skewX(20deg);
+            }
+        </style>
+    </head>
+<body>
+   <div>This is box 1</div>
+   <div id="mydiv">This is box 2</div>
+</body>
+
+</html>

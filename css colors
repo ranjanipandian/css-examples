@@ -1,0 +1,27 @@
+<!-- hex code,short hex code,rgb absolute keywords-->
+<!DOCTYPE html>
+<html>
+   <head>
+        <title>CSS EXAMPLES</title>
+        <style>
+            #p1{background-color: rgba(255,0,0,0.1);}
+            #p2{background-color: rgba(0,255,0,0.2);}
+            #p3{background-color: rgba(0,0,255,0.3);}
+
+            #p1{background-color: hsl(360,100%,50%);}
+            #p2{background-color: hsl(120,100%,75%);}
+            #p3{background-color: hsl(200,100%,25%);}
+             
+        </style>
+    </head>
+<body>
+     <p>RGBA COLORS</p>
+     <p id="p1">Red</p>
+     <p id="p2">Green</p>
+     <p id="p3">Blue</p>
+     <p>HSL COLORS</p>
+     <p id="p1">Red</p>
+     <p id="p2">Green</p>
+     <p id="p3">Blue</p>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS PADDING</title>
+</head>
+<body>
+     <p style="padding-bottom:15px;border:1px solid black;">
+        The paragraph is used with bottom padding
+     </p>
+     <p style="padding-bottom:5%;border:1px solid black;">
+        The paragraph is used with percent in bottom padding
+        <p style="padding-top:15px;border:1px solid black;">
+            The paragraph is used with bottom padding
+         </p>
+         <p style="padding-top:5%;border:1px solid black;">
+            The paragraph is used with percent in bottom padding
+    
+</body>
+</html>

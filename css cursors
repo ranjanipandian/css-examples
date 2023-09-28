@@ -1,0 +1,16 @@
+<!-- default mouse pointers-->
+<!DOCTYPE html>
+<html>
+   <head>
+        <title>CSS EXAMPLES</title>
+        <style>
+         
+        </style>
+    </head>
+<body>
+    <p>Move the mouse over the words to use the cursor change</p>
+    <div style="cursor: auto;">Auto</div>
+    <!---->
+
+</body>
+</html>
